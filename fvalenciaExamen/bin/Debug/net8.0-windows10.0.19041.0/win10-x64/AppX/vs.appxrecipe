@@ -10,7 +10,7 @@
     <PackageArchitecture>x64</PackageArchitecture>
     <PackageIdentityName>com.companyname.fvalenciaexamen</PackageIdentityName>
     <PackageIdentityPublisher>CN=User Name</PackageIdentityPublisher>
-    <IntermediateOutputPath>C:\Users\Usuario\source\repos\fvalenciaExamen\fvalenciaExamen\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\</IntermediateOutputPath>
+    <IntermediateOutputPath>C:\Users\Usuario\source\fvalenciaExamen\fvalenciaExamen\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\</IntermediateOutputPath>
     <RemoteDeploymentType>CopyToDevice</RemoteDeploymentType>
     <PackageRegistrationPath>
     </PackageRegistrationPath>
@@ -18,7 +18,7 @@
     <DeployOptionalPackages>false</DeployOptionalPackages>
     <WindowsSdkPath>
     </WindowsSdkPath>
-    <LayoutDir>C:\Users\Usuario\source\repos\fvalenciaExamen\fvalenciaExamen\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AppX</LayoutDir>
+    <LayoutDir>C:\Users\Usuario\source\fvalenciaExamen\fvalenciaExamen\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AppX</LayoutDir>
     <RegisteredManifestChecksum>9FF8630FFB97E6E1EC3C9250DAF58FA431E1DA7DF577070FA1C290DA0D425941</RegisteredManifestChecksum>
     <RegisteredPackageMoniker>com.companyname.fvalenciaexamen_1.0.0.1_x64__9zz4h110yvjzm</RegisteredPackageMoniker>
     <RegisteredUserModeAppID>com.companyname.fvalenciaexamen_9zz4h110yvjzm!App</RegisteredUserModeAppID>
@@ -27,268 +27,268 @@
     <RegisteredVersion>1.0.0.1</RegisteredVersion>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="C:\Users\Usuario\source\repos\fvalenciaExamen\fvalenciaExamen\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
+    <AppXManifest Include="C:\Users\Usuario\source\fvalenciaExamen\fvalenciaExamen\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2024-04-26T03:35:12.643</Modified>
+      <Modified>2024-04-26T03:53:08.360</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="C:\Users\Usuario\source\repos\fvalenciaExamen\fvalenciaExamen\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\resources.pri">
+    <AppxPackagedFile Include="C:\Users\Usuario\source\fvalenciaExamen\fvalenciaExamen\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2024-04-26T03:35:12.332</Modified>
+      <Modified>2024-04-26T03:53:08.254</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Usuario\source\repos\fvalenciaExamen\fvalenciaExamen\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\fvalenciaExamen.runtimeconfig.json">
+    <AppxPackagedFile Include="C:\Users\Usuario\source\fvalenciaExamen\fvalenciaExamen\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\fvalenciaExamen.runtimeconfig.json">
       <PackagePath>fvalenciaExamen.runtimeconfig.json</PackagePath>
-      <Modified>2024-04-26T01:59:04.192</Modified>
+      <Modified>2024-04-26T03:51:12.111</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Usuario\source\repos\fvalenciaExamen\fvalenciaExamen\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\fvalenciaExamen.dll">
+    <AppxPackagedFile Include="C:\Users\Usuario\source\fvalenciaExamen\fvalenciaExamen\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\fvalenciaExamen.dll">
       <PackagePath>fvalenciaExamen.dll</PackagePath>
-      <Modified>2024-04-26T03:35:11.468</Modified>
+      <Modified>2024-04-26T03:53:07.967</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Usuario\source\repos\fvalenciaExamen\fvalenciaExamen\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\apphost.exe">
+    <AppxPackagedFile Include="C:\Users\Usuario\source\fvalenciaExamen\fvalenciaExamen\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\apphost.exe">
       <PackagePath>fvalenciaExamen.exe</PackagePath>
-      <Modified>2024-04-26T03:35:11.485</Modified>
+      <Modified>2024-04-26T03:53:07.974</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Usuario\source\repos\fvalenciaExamen\fvalenciaExamen\Resources\Raw\AboutAssets.txt">
+    <AppxPackagedFile Include="C:\Users\Usuario\source\fvalenciaExamen\fvalenciaExamen\Resources\Raw\AboutAssets.txt">
       <PackagePath>AboutAssets.txt</PackagePath>
       <Modified>2024-04-26T01:58:21.320</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Usuario\source\repos\fvalenciaExamen\fvalenciaExamen\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\Usuario\source\fvalenciaExamen\fvalenciaExamen\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-100.png">
       <PackagePath>splashSplashScreen.scale-100.png</PackagePath>
       <Modified>2024-04-26T01:58:46.119</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Usuario\source\repos\fvalenciaExamen\fvalenciaExamen\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\Usuario\source\fvalenciaExamen\fvalenciaExamen\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-125.png">
       <PackagePath>splashSplashScreen.scale-125.png</PackagePath>
       <Modified>2024-04-26T01:58:46.137</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Usuario\source\repos\fvalenciaExamen\fvalenciaExamen\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\Usuario\source\fvalenciaExamen\fvalenciaExamen\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-150.png">
       <PackagePath>splashSplashScreen.scale-150.png</PackagePath>
       <Modified>2024-04-26T01:58:46.168</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Usuario\source\repos\fvalenciaExamen\fvalenciaExamen\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Usuario\source\fvalenciaExamen\fvalenciaExamen\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-200.png">
       <PackagePath>splashSplashScreen.scale-200.png</PackagePath>
       <Modified>2024-04-26T01:58:46.211</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Usuario\source\repos\fvalenciaExamen\fvalenciaExamen\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\Usuario\source\fvalenciaExamen\fvalenciaExamen\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-400.png">
       <PackagePath>splashSplashScreen.scale-400.png</PackagePath>
       <Modified>2024-04-26T01:58:46.399</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Usuario\source\repos\fvalenciaExamen\fvalenciaExamen\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Regular.ttf">
+    <AppxPackagedFile Include="C:\Users\Usuario\source\fvalenciaExamen\fvalenciaExamen\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Regular.ttf">
       <PackagePath>OpenSans-Regular.ttf</PackagePath>
       <Modified>2024-04-26T01:58:21.314</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Usuario\source\repos\fvalenciaExamen\fvalenciaExamen\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Semibold.ttf">
+    <AppxPackagedFile Include="C:\Users\Usuario\source\fvalenciaExamen\fvalenciaExamen\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Semibold.ttf">
       <PackagePath>OpenSans-Semibold.ttf</PackagePath>
       <Modified>2024-04-26T01:58:21.315</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Usuario\source\repos\fvalenciaExamen\fvalenciaExamen\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appicon.ico">
+    <AppxPackagedFile Include="C:\Users\Usuario\source\fvalenciaExamen\fvalenciaExamen\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appicon.ico">
       <PackagePath>appicon.ico</PackagePath>
       <Modified>2024-04-26T01:58:47.202</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Usuario\source\repos\fvalenciaExamen\fvalenciaExamen\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\Usuario\source\fvalenciaExamen\fvalenciaExamen\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-100.png">
       <PackagePath>appiconLargeTile.scale-100.png</PackagePath>
       <Modified>2024-04-26T01:58:48.050</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Usuario\source\repos\fvalenciaExamen\fvalenciaExamen\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\Usuario\source\fvalenciaExamen\fvalenciaExamen\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-125.png">
       <PackagePath>appiconLargeTile.scale-125.png</PackagePath>
       <Modified>2024-04-26T01:58:48.111</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Usuario\source\repos\fvalenciaExamen\fvalenciaExamen\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\Usuario\source\fvalenciaExamen\fvalenciaExamen\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-150.png">
       <PackagePath>appiconLargeTile.scale-150.png</PackagePath>
       <Modified>2024-04-26T01:58:48.150</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Usuario\source\repos\fvalenciaExamen\fvalenciaExamen\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Usuario\source\fvalenciaExamen\fvalenciaExamen\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-200.png">
       <PackagePath>appiconLargeTile.scale-200.png</PackagePath>
       <Modified>2024-04-26T01:58:48.205</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Usuario\source\repos\fvalenciaExamen\fvalenciaExamen\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\Usuario\source\fvalenciaExamen\fvalenciaExamen\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-400.png">
       <PackagePath>appiconLargeTile.scale-400.png</PackagePath>
       <Modified>2024-04-26T01:58:48.445</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Usuario\source\repos\fvalenciaExamen\fvalenciaExamen\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-16.png">
+    <AppxPackagedFile Include="C:\Users\Usuario\source\fvalenciaExamen\fvalenciaExamen\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-16.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-16.png</PackagePath>
       <Modified>2024-04-26T01:58:47.437</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Usuario\source\repos\fvalenciaExamen\fvalenciaExamen\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-24.png">
+    <AppxPackagedFile Include="C:\Users\Usuario\source\fvalenciaExamen\fvalenciaExamen\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-24.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-24.png</PackagePath>
       <Modified>2024-04-26T01:58:47.447</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Usuario\source\repos\fvalenciaExamen\fvalenciaExamen\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-256.png">
+    <AppxPackagedFile Include="C:\Users\Usuario\source\fvalenciaExamen\fvalenciaExamen\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-256.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-256.png</PackagePath>
       <Modified>2024-04-26T01:58:47.496</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Usuario\source\repos\fvalenciaExamen\fvalenciaExamen\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-32.png">
+    <AppxPackagedFile Include="C:\Users\Usuario\source\fvalenciaExamen\fvalenciaExamen\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-32.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-32.png</PackagePath>
       <Modified>2024-04-26T01:58:47.457</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Usuario\source\repos\fvalenciaExamen\fvalenciaExamen\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-48.png">
+    <AppxPackagedFile Include="C:\Users\Usuario\source\fvalenciaExamen\fvalenciaExamen\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-48.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-48.png</PackagePath>
       <Modified>2024-04-26T01:58:47.467</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Usuario\source\repos\fvalenciaExamen\fvalenciaExamen\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-16.png">
+    <AppxPackagedFile Include="C:\Users\Usuario\source\fvalenciaExamen\fvalenciaExamen\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-16.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-16.png</PackagePath>
       <Modified>2024-04-26T01:58:47.370</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Usuario\source\repos\fvalenciaExamen\fvalenciaExamen\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-24.png">
+    <AppxPackagedFile Include="C:\Users\Usuario\source\fvalenciaExamen\fvalenciaExamen\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-24.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-24.png</PackagePath>
       <Modified>2024-04-26T01:58:47.379</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Usuario\source\repos\fvalenciaExamen\fvalenciaExamen\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-256.png">
+    <AppxPackagedFile Include="C:\Users\Usuario\source\fvalenciaExamen\fvalenciaExamen\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-256.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-256.png</PackagePath>
       <Modified>2024-04-26T01:58:47.426</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Usuario\source\repos\fvalenciaExamen\fvalenciaExamen\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-32.png">
+    <AppxPackagedFile Include="C:\Users\Usuario\source\fvalenciaExamen\fvalenciaExamen\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-32.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-32.png</PackagePath>
       <Modified>2024-04-26T01:58:47.387</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Usuario\source\repos\fvalenciaExamen\fvalenciaExamen\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-48.png">
+    <AppxPackagedFile Include="C:\Users\Usuario\source\fvalenciaExamen\fvalenciaExamen\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-48.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-48.png</PackagePath>
       <Modified>2024-04-26T01:58:47.395</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Usuario\source\repos\fvalenciaExamen\fvalenciaExamen\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\Usuario\source\fvalenciaExamen\fvalenciaExamen\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-100.png">
       <PackagePath>appiconLogo.scale-100.png</PackagePath>
       <Modified>2024-04-26T01:58:47.229</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Usuario\source\repos\fvalenciaExamen\fvalenciaExamen\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\Usuario\source\fvalenciaExamen\fvalenciaExamen\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-125.png">
       <PackagePath>appiconLogo.scale-125.png</PackagePath>
       <Modified>2024-04-26T01:58:47.239</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Usuario\source\repos\fvalenciaExamen\fvalenciaExamen\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\Usuario\source\fvalenciaExamen\fvalenciaExamen\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-150.png">
       <PackagePath>appiconLogo.scale-150.png</PackagePath>
       <Modified>2024-04-26T01:58:47.261</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Usuario\source\repos\fvalenciaExamen\fvalenciaExamen\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Usuario\source\fvalenciaExamen\fvalenciaExamen\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-200.png">
       <PackagePath>appiconLogo.scale-200.png</PackagePath>
       <Modified>2024-04-26T01:58:47.274</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Usuario\source\repos\fvalenciaExamen\fvalenciaExamen\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\Usuario\source\fvalenciaExamen\fvalenciaExamen\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-400.png">
       <PackagePath>appiconLogo.scale-400.png</PackagePath>
       <Modified>2024-04-26T01:58:47.291</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Usuario\source\repos\fvalenciaExamen\fvalenciaExamen\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-16.png">
+    <AppxPackagedFile Include="C:\Users\Usuario\source\fvalenciaExamen\fvalenciaExamen\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-16.png">
       <PackagePath>appiconLogo.targetsize-16.png</PackagePath>
       <Modified>2024-04-26T01:58:47.300</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Usuario\source\repos\fvalenciaExamen\fvalenciaExamen\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-24.png">
+    <AppxPackagedFile Include="C:\Users\Usuario\source\fvalenciaExamen\fvalenciaExamen\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-24.png">
       <PackagePath>appiconLogo.targetsize-24.png</PackagePath>
       <Modified>2024-04-26T01:58:47.309</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Usuario\source\repos\fvalenciaExamen\fvalenciaExamen\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-256.png">
+    <AppxPackagedFile Include="C:\Users\Usuario\source\fvalenciaExamen\fvalenciaExamen\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-256.png">
       <PackagePath>appiconLogo.targetsize-256.png</PackagePath>
       <Modified>2024-04-26T01:58:47.360</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Usuario\source\repos\fvalenciaExamen\fvalenciaExamen\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-32.png">
+    <AppxPackagedFile Include="C:\Users\Usuario\source\fvalenciaExamen\fvalenciaExamen\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-32.png">
       <PackagePath>appiconLogo.targetsize-32.png</PackagePath>
       <Modified>2024-04-26T01:58:47.317</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Usuario\source\repos\fvalenciaExamen\fvalenciaExamen\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-48.png">
+    <AppxPackagedFile Include="C:\Users\Usuario\source\fvalenciaExamen\fvalenciaExamen\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-48.png">
       <PackagePath>appiconLogo.targetsize-48.png</PackagePath>
       <Modified>2024-04-26T01:58:47.332</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Usuario\source\repos\fvalenciaExamen\fvalenciaExamen\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\Usuario\source\fvalenciaExamen\fvalenciaExamen\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-100.png">
       <PackagePath>appiconMediumTile.scale-100.png</PackagePath>
       <Modified>2024-04-26T01:58:47.648</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Usuario\source\repos\fvalenciaExamen\fvalenciaExamen\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\Usuario\source\fvalenciaExamen\fvalenciaExamen\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-125.png">
       <PackagePath>appiconMediumTile.scale-125.png</PackagePath>
       <Modified>2024-04-26T01:58:47.665</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Usuario\source\repos\fvalenciaExamen\fvalenciaExamen\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\Usuario\source\fvalenciaExamen\fvalenciaExamen\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-150.png">
       <PackagePath>appiconMediumTile.scale-150.png</PackagePath>
       <Modified>2024-04-26T01:58:47.687</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Usuario\source\repos\fvalenciaExamen\fvalenciaExamen\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Usuario\source\fvalenciaExamen\fvalenciaExamen\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-200.png">
       <PackagePath>appiconMediumTile.scale-200.png</PackagePath>
       <Modified>2024-04-26T01:58:47.718</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Usuario\source\repos\fvalenciaExamen\fvalenciaExamen\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\Usuario\source\fvalenciaExamen\fvalenciaExamen\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-400.png">
       <PackagePath>appiconMediumTile.scale-400.png</PackagePath>
       <Modified>2024-04-26T01:58:47.778</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Usuario\source\repos\fvalenciaExamen\fvalenciaExamen\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\Usuario\source\fvalenciaExamen\fvalenciaExamen\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-100.png">
       <PackagePath>appiconSmallTile.scale-100.png</PackagePath>
       <Modified>2024-04-26T01:58:47.571</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Usuario\source\repos\fvalenciaExamen\fvalenciaExamen\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\Usuario\source\fvalenciaExamen\fvalenciaExamen\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-125.png">
       <PackagePath>appiconSmallTile.scale-125.png</PackagePath>
       <Modified>2024-04-26T01:58:47.584</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Usuario\source\repos\fvalenciaExamen\fvalenciaExamen\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\Usuario\source\fvalenciaExamen\fvalenciaExamen\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-150.png">
       <PackagePath>appiconSmallTile.scale-150.png</PackagePath>
       <Modified>2024-04-26T01:58:47.596</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Usuario\source\repos\fvalenciaExamen\fvalenciaExamen\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Usuario\source\fvalenciaExamen\fvalenciaExamen\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-200.png">
       <PackagePath>appiconSmallTile.scale-200.png</PackagePath>
       <Modified>2024-04-26T01:58:47.610</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Usuario\source\repos\fvalenciaExamen\fvalenciaExamen\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\Usuario\source\fvalenciaExamen\fvalenciaExamen\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-400.png">
       <PackagePath>appiconSmallTile.scale-400.png</PackagePath>
       <Modified>2024-04-26T01:58:47.637</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Usuario\source\repos\fvalenciaExamen\fvalenciaExamen\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\Usuario\source\fvalenciaExamen\fvalenciaExamen\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-100.png">
       <PackagePath>appiconStoreLogo.scale-100.png</PackagePath>
       <Modified>2024-04-26T01:58:47.505</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Usuario\source\repos\fvalenciaExamen\fvalenciaExamen\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\Usuario\source\fvalenciaExamen\fvalenciaExamen\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-125.png">
       <PackagePath>appiconStoreLogo.scale-125.png</PackagePath>
       <Modified>2024-04-26T01:58:47.515</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Usuario\source\repos\fvalenciaExamen\fvalenciaExamen\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\Usuario\source\fvalenciaExamen\fvalenciaExamen\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-150.png">
       <PackagePath>appiconStoreLogo.scale-150.png</PackagePath>
       <Modified>2024-04-26T01:58:47.524</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Usuario\source\repos\fvalenciaExamen\fvalenciaExamen\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Usuario\source\fvalenciaExamen\fvalenciaExamen\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-200.png">
       <PackagePath>appiconStoreLogo.scale-200.png</PackagePath>
       <Modified>2024-04-26T01:58:47.536</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Usuario\source\repos\fvalenciaExamen\fvalenciaExamen\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\Usuario\source\fvalenciaExamen\fvalenciaExamen\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-400.png">
       <PackagePath>appiconStoreLogo.scale-400.png</PackagePath>
       <Modified>2024-04-26T01:58:47.560</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Usuario\source\repos\fvalenciaExamen\fvalenciaExamen\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\Usuario\source\fvalenciaExamen\fvalenciaExamen\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-100.png">
       <PackagePath>appiconWideTile.scale-100.png</PackagePath>
       <Modified>2024-04-26T01:58:47.797</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Usuario\source\repos\fvalenciaExamen\fvalenciaExamen\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\Usuario\source\fvalenciaExamen\fvalenciaExamen\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-125.png">
       <PackagePath>appiconWideTile.scale-125.png</PackagePath>
       <Modified>2024-04-26T01:58:47.815</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Usuario\source\repos\fvalenciaExamen\fvalenciaExamen\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\Usuario\source\fvalenciaExamen\fvalenciaExamen\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-150.png">
       <PackagePath>appiconWideTile.scale-150.png</PackagePath>
       <Modified>2024-04-26T01:58:47.850</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Usuario\source\repos\fvalenciaExamen\fvalenciaExamen\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Usuario\source\fvalenciaExamen\fvalenciaExamen\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-200.png">
       <PackagePath>appiconWideTile.scale-200.png</PackagePath>
       <Modified>2024-04-26T01:58:47.890</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Usuario\source\repos\fvalenciaExamen\fvalenciaExamen\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\Usuario\source\fvalenciaExamen\fvalenciaExamen\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-400.png">
       <PackagePath>appiconWideTile.scale-400.png</PackagePath>
       <Modified>2024-04-26T01:58:48.013</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Usuario\source\repos\fvalenciaExamen\fvalenciaExamen\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\Usuario\source\fvalenciaExamen\fvalenciaExamen\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-100.png">
       <PackagePath>dotnet_bot.scale-100.png</PackagePath>
       <Modified>2024-04-26T01:58:47.198</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Usuario\source\repos\fvalenciaExamen\fvalenciaExamen\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\Usuario\source\fvalenciaExamen\fvalenciaExamen\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-125.png">
       <PackagePath>dotnet_bot.scale-125.png</PackagePath>
       <Modified>2024-04-26T01:58:47.217</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Usuario\source\repos\fvalenciaExamen\fvalenciaExamen\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\Usuario\source\fvalenciaExamen\fvalenciaExamen\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-150.png">
       <PackagePath>dotnet_bot.scale-150.png</PackagePath>
       <Modified>2024-04-26T01:58:47.241</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Usuario\source\repos\fvalenciaExamen\fvalenciaExamen\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Usuario\source\fvalenciaExamen\fvalenciaExamen\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-200.png">
       <PackagePath>dotnet_bot.scale-200.png</PackagePath>
       <Modified>2024-04-26T01:58:47.277</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Usuario\source\repos\fvalenciaExamen\fvalenciaExamen\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\Usuario\source\fvalenciaExamen\fvalenciaExamen\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-400.png">
       <PackagePath>dotnet_bot.scale-400.png</PackagePath>
       <Modified>2024-04-26T01:58:47.419</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Usuario\source\repos\fvalenciaExamen\fvalenciaExamen\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\fvalenciaExamen.deps.json">
+    <AppxPackagedFile Include="C:\Users\Usuario\source\fvalenciaExamen\fvalenciaExamen\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\fvalenciaExamen.deps.json">
       <PackagePath>fvalenciaExamen.deps.json</PackagePath>
-      <Modified>2024-04-26T03:07:43.279</Modified>
+      <Modified>2024-04-26T03:51:11.975</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Usuario\.nuget\packages\microsoft.windows.sdk.net.ref\10.0.19041.31\lib\net6.0\Microsoft.Windows.SDK.NET.dll">
       <PackagePath>Microsoft.Windows.SDK.NET.dll</PackagePath>

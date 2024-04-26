@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Usuario\\source\\fvalenciaExamen\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{34A437A9-644B-4CE2-A780-D1E5E2BC7F78}|fvalenciaExamen\\fvalenciaExamen.csproj|c:\\users\\usuario\\source\\fvalenciaexamen\\fvalenciaexamen\\registro.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{34A437A9-644B-4CE2-A780-D1E5E2BC7F78}|fvalenciaExamen\\fvalenciaExamen.csproj|solutionrelative:fvalenciaexamen\\registro.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34A437A9-644B-4CE2-A780-D1E5E2BC7F78}|fvalenciaExamen\\fvalenciaExamen.csproj|c:\\users\\usuario\\source\\fvalenciaexamen\\fvalenciaexamen\\registro.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34A437A9-644B-4CE2-A780-D1E5E2BC7F78}|fvalenciaExamen\\fvalenciaExamen.csproj|solutionrelative:fvalenciaexamen\\registro.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34A437A9-644B-4CE2-A780-D1E5E2BC7F78}|fvalenciaExamen\\fvalenciaExamen.csproj|c:\\users\\usuario\\source\\fvalenciaexamen\\fvalenciaexamen\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34A437A9-644B-4CE2-A780-D1E5E2BC7F78}|fvalenciaExamen\\fvalenciaExamen.csproj|solutionrelative:fvalenciaexamen\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34A437A9-644B-4CE2-A780-D1E5E2BC7F78}|fvalenciaExamen\\fvalenciaExamen.csproj|c:\\users\\usuario\\source\\fvalenciaexamen\\fvalenciaexamen\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{34A437A9-644B-4CE2-A780-D1E5E2BC7F78}|fvalenciaExamen\\fvalenciaExamen.csproj|solutionrelative:fvalenciaexamen\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34A437A9-644B-4CE2-A780-D1E5E2BC7F78}|fvalenciaExamen\\fvalenciaExamen.csproj|c:\\users\\usuario\\source\\fvalenciaexamen\\fvalenciaexamen\\resumen.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34A437A9-644B-4CE2-A780-D1E5E2BC7F78}|fvalenciaExamen\\fvalenciaExamen.csproj|solutionrelative:fvalenciaexamen\\resumen.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34A437A9-644B-4CE2-A780-D1E5E2BC7F78}|fvalenciaExamen\\fvalenciaExamen.csproj|c:\\users\\usuario\\source\\fvalenciaexamen\\fvalenciaexamen\\resumen.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{34A437A9-644B-4CE2-A780-D1E5E2BC7F78}|fvalenciaExamen\\fvalenciaExamen.csproj|solutionrelative:fvalenciaexamen\\resumen.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34A437A9-644B-4CE2-A780-D1E5E2BC7F78}|fvalenciaExamen\\fvalenciaExamen.csproj|c:\\users\\usuario\\source\\fvalenciaexamen\\fvalenciaexamen\\fvalenciaexamen.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{34A437A9-644B-4CE2-A780-D1E5E2BC7F78}|fvalenciaExamen\\fvalenciaExamen.csproj|solutionrelative:fvalenciaexamen\\fvalenciaexamen.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Registro.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\fvalenciaExamen\\fvalenciaExamen\\Registro.xaml.cs",
+              "RelativeDocumentMoniker": "fvalenciaExamen\\Registro.xaml.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\fvalenciaExamen\\fvalenciaExamen\\Registro.xaml.cs",
+              "RelativeToolTip": "fvalenciaExamen\\Registro.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T03:46:09.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Registro.xaml",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\fvalenciaExamen\\fvalenciaExamen\\Registro.xaml",
+              "RelativeDocumentMoniker": "fvalenciaExamen\\Registro.xaml",
+              "ToolTip": "C:\\Users\\Usuario\\source\\fvalenciaExamen\\fvalenciaExamen\\Registro.xaml",
+              "RelativeToolTip": "fvalenciaExamen\\Registro.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-26T03:43:06.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\fvalenciaExamen\\fvalenciaExamen\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "fvalenciaExamen\\MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\fvalenciaExamen\\fvalenciaExamen\\MainPage.xaml.cs",
+              "RelativeToolTip": "fvalenciaExamen\\MainPage.xaml.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABsAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T03:47:59.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Resumen.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\fvalenciaExamen\\fvalenciaExamen\\Resumen.xaml.cs",
+              "RelativeDocumentMoniker": "fvalenciaExamen\\Resumen.xaml.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\fvalenciaExamen\\fvalenciaExamen\\Resumen.xaml.cs",
+              "RelativeToolTip": "fvalenciaExamen\\Resumen.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T03:46:06.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Resumen.xaml",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\fvalenciaExamen\\fvalenciaExamen\\Resumen.xaml",
+              "RelativeDocumentMoniker": "fvalenciaExamen\\Resumen.xaml",
+              "ToolTip": "C:\\Users\\Usuario\\source\\fvalenciaExamen\\fvalenciaExamen\\Resumen.xaml",
+              "RelativeToolTip": "fvalenciaExamen\\Resumen.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-26T03:45:53.88Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\fvalenciaExamen\\fvalenciaExamen\\MainPage.xaml",
+              "RelativeDocumentMoniker": "fvalenciaExamen\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\Usuario\\source\\fvalenciaExamen\\fvalenciaExamen\\MainPage.xaml",
+              "RelativeToolTip": "fvalenciaExamen\\MainPage.xaml",
+              "ViewState": "AQIAABQAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-26T03:42:51.048Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "fvalenciaExamen",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\fvalenciaExamen\\fvalenciaExamen\\fvalenciaExamen.csproj",
+              "RelativeDocumentMoniker": "fvalenciaExamen\\fvalenciaExamen.csproj",
+              "ToolTip": "C:\\Users\\Usuario\\source\\fvalenciaExamen\\fvalenciaExamen\\fvalenciaExamen.csproj",
+              "RelativeToolTip": "fvalenciaExamen\\fvalenciaExamen.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-26T03:45:36.34Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

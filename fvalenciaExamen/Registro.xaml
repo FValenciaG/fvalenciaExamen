@@ -11,9 +11,11 @@
              TextColor="Blue" 
             FontSize="22"
             />
-
-
-        <Label
+        <HorizontalStackLayout>
+            <Label Text="usuario Conectado : " FontSize="12"  />
+            <Entry x:Name="TxtUsuario" IsReadOnly="True"  HorizontalOptions="Start"/>
+            <HorizontalStackLayout/>
+            <Label
          Text="Registro Estudiantes"
          Style="{StaticResource Headline}"
          SemanticProperties.HeadingLevel="Level1" />
@@ -40,14 +42,18 @@
                 </Picker.ItemsSource>
             </Picker>
             <Entry x:Name="TxtMonto" Placeholder="Ingrese su monto inicial"  />
-            <Entry x:Name="TxtPMensual" IsReadOnly="True" />
+            <Entry x:Name="TxtPMensual" IsReadOnly="True"/>
             
         </StackLayout>
         <Button
          x:Name="CalcularBtn"
-         Text="Calcular Aporte" 
-         SemanticProperties.Hint="Counts the number of times you click"
+         Text="Calcular Pago Mensual" 
          Clicked="CalcularBtn_Clicked"
          HorizontalOptions="Fill" />
+        <Button
+          x:Name="VerResumenBtn"
+          Text="Ver Resumen"         
+          Clicked="CalcularBtn_Clicked"
+          HorizontalOptions="Fill" />
     </VerticalStackLayout>
 </ContentPage>

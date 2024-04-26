@@ -32936,11 +32936,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Usuario\\source\\repos\\fvalenciaExamen\\fvalenciaExamen\\fvalenciaExamen.csproj",
+      "projectUniqueName": "C:\\Users\\Usuario\\source\\fvalenciaExamen\\fvalenciaExamen\\fvalenciaExamen.csproj",
       "projectName": "fvalenciaExamen",
-      "projectPath": "C:\\Users\\Usuario\\source\\repos\\fvalenciaExamen\\fvalenciaExamen\\fvalenciaExamen.csproj",
+      "projectPath": "C:\\Users\\Usuario\\source\\fvalenciaExamen\\fvalenciaExamen\\fvalenciaExamen.csproj",
       "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Usuario\\source\\repos\\fvalenciaExamen\\fvalenciaExamen\\obj\\",
+      "outputPath": "C:\\Users\\Usuario\\source\\fvalenciaExamen\\fvalenciaExamen\\obj\\",
       "projectStyle": "PackageReference",
       "crossTargeting": true,
       "fallbackFolders": [

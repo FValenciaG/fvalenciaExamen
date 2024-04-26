@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("fvalenciaExamen")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+fc352ab0ec91b6d7440a10df2f4fc7fb05a26122")]
 [assembly: System.Reflection.AssemblyProductAttribute("fvalenciaExamen")]
 [assembly: System.Reflection.AssemblyTitleAttribute("fvalenciaExamen")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
