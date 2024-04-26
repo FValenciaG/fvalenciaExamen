@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="fvalenciaExamen.Registro"
+             Title="Registro">
+    <VerticalStackLayout>
+        <Label 
+            Text="VENTANA DE REGISTRO"
+            VerticalOptions="Center" 
+            HorizontalOptions="Center" 
+             TextColor="Blue" 
+            FontSize="22"
+            />
+
+
+        <Label
+         Text="Registro Estudiantes"
+         Style="{StaticResource Headline}"
+         SemanticProperties.HeadingLevel="Level1" />
+        <StackLayout>
+            <DatePicker x:Name="dpFecha"  Date="01/01/2023"  Format="MM/dd/yyyy"/>
+            <Picker x:Name="PEPais" Title="Selecciona un pais">
+                <Picker.ItemsSource>
+                    <x:Array Type="{x:Type x:String}">
+                        <x:String>Ecuador</x:String>
+                        <x:String>Colombia</x:String>
+                        <x:String>Mexico</x:String>
+                        <x:String>España</x:String>
+                        <x:String>Venezuela</x:String>
+                    </x:Array>
+                </Picker.ItemsSource>
+            </Picker>
+            <Picker x:Name="PEciudad" Title="Selecciona una ciudad">
+                <Picker.ItemsSource>
+                    <x:Array Type="{x:Type x:String}">
+                        <x:String>Quito</x:String>
+                        <x:String>Guayuaquil</x:String>
+                        <x:String>Cuenca</x:String>
+                    </x:Array>
+                </Picker.ItemsSource>
+            </Picker>
+            <Entry x:Name="TxtMonto" Placeholder="Ingrese su monto inicial"  />
+            <Entry x:Name="TxtPMensual" IsReadOnly="True" />
+            
+        </StackLayout>
+        <Button
+         x:Name="CalcularBtn"
+         Text="Calcular Aporte" 
+         SemanticProperties.Hint="Counts the number of times you click"
+         Clicked="CalcularBtn_Clicked"
+         HorizontalOptions="Fill" />
+    </VerticalStackLayout>
+</ContentPage>

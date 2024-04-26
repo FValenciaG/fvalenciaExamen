@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="fvalenciaExamen.MainPage"
+             Title="Login">
+
+    <ScrollView>
+        <VerticalStackLayout
+            Padding="25,0"
+            Spacing="20">
+            <Image
+                HeightRequest="185"
+                Aspect="AspectFit"
+                SemanticProperties.Description="dot net bot in a race car number eight"
+                Source = "https://sbsconsulting.com.ec/wp-content/uploads/2018/01/LOGO-UISRAEL-768x209.png"                />
+
+            <VerticalStackLayout>
+                <Label
+                Text="INICIAR SESIÓN"
+                TextColor="Red" 
+                FontSize="20"
+                Style="{StaticResource Headline}"
+                SemanticProperties.HeadingLevel="Level1" />
+                <StackLayout>
+                    <Entry x:Name="TxtUsuario"  Placeholder="Ingrese su usuario" />
+                    <Entry x:Name="TxtContrasena"  Placeholder="Ingrese su contraseña"   IsPassword="True" />
+                </StackLayout>
+                <Button
+                x:Name="IngresarBtn"
+                Text="Ingresar" 
+                Clicked="IngresarBtn_Clicked"
+                HorizontalOptions="Fill" />
+
+                <Button
+                 x:Name="AcercaBtn"
+                 Text="Acerca de" 
+                 Clicked="AcercaBtn_Clicked"
+                 HorizontalOptions="Fill" />
+
+            </VerticalStackLayout>
+
+
+        </VerticalStackLayout>
+    </ScrollView>
+
+</ContentPage>
